@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="60"/>
-  <h2>Olá, eu sou o Lucas! 👋</h2>
+  <h2>Olá, eu sou o Lucas Souza! 👋</h2>
 </div>
 
 ### Sobre mim
