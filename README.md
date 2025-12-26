@@ -76,16 +76,3 @@ Minha rotina de estudos é focada em três pilares: Desenvolvimento, Segurança 
 </div>
 
 ---
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=souzarlucas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=souzarlucas&layout=compact&langs_count=7&theme=tokyonight" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=souzarlucas&style=flat-square&color=blueviolet" alt="Profile views" /> 
-</div>
