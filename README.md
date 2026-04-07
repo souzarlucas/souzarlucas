@@ -1,78 +1,91 @@
 <div align="center">
-
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"/> 
   <h1>Olá, eu sou o Lucas Souza!</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Junior+Frontend+Developer;Ethical+Hacking+Student;AI+%26+Cybersecurity+Enthusiast;Preparing+for+Certifications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=20B2AA&center=true&vCenter=true&width=500&lines=Computer+Science+%26+ADS+Student;IT+Support+Specialist+%40+TRE-AM;Infrastructure+%26+Network+Enthusiast;AWS+re%2FStart+Student" alt="Typing SVG" />
   </a>
 
   <p>
-    <em>"Construindo interfaces incríveis, blindando sistemas e explorando a IA."</em>
+    <em>"Profissional de TI focado em estabilidade operacional, infraestrutura de redes e suporte consultivo."</em>
   </p>
 
-  <br/>
-
-  <a href="https://www.linkedin.com/in/SEU-USER-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  
-  <a href="https://www.facebook.com/SEU-USER-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-
-  <a href="mailto:SEU_EMAIL_REAL@AQUI.COM">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
+  <div align="center">
+    <a href="https://www.linkedin.com/in/souzarlucas" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+    <a href="https://www.instagram.com/souzarlucas_" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
 </div>
 
 <br/>
 
 ## 👨‍💻 Sobre Mim
 
-Sou um **Desenvolvedor Frontend Júnior** apaixonado por tecnologia, morando em Manaus, Amazonas. 
+Atualmente sou **Estagiário de TI no Tribunal Regional Eleitoral (TRE-AM)**, onde atuo no suporte níveis 1 e 2. Minha jornada é marcada por uma formação acadêmica dupla em **Ciência da Computação** e **Análise e Desenvolvimento de Sistemas**, unindo o rigor teórico à prática de infraestrutura.
 
-Atualmente, meu foco principal é criar interfaces modernas com **React e JavaScript**. No entanto, minha visão vai além do código: estou me especializando em **Hacking Ético** e **Inteligência Artificial**, me preparando ativamente para obter **certificações de Cibersegurança** reconhecidas no mercado.
-
-Estou cursando **Análise e Desenvolvimento de Sistemas** e busco oportunidades onde possa unir desenvolvimento web com boas práticas de segurança e automação inteligente.
+* 🏛️ **Experiência Atual:** Suporte técnico via OTRS/AnyDesk, administração de Zimbra Mail e manutenção de infraestrutura de redes no TRE-AM.
+* 🎓 **Educação:** Bacharelado em Ciência da Computação (2030) e Tecnólogo em ADS (2027).
+* 🛡️ **Técnico:** Especialista em diagnósticos via CLI (CMD, PowerShell) e protocolos TCP/IP.
 
 ---
 
-## 🚀 O que estou estudando agora
+## 🚀 O que estou estudando & Certificações
 
-Minha rotina de estudos é focada em três pilares: Desenvolvimento, Segurança e IA.
-
-- 🎓 **Faculdade:** Análise e Desenvolvimento de Sistemas.
-- 💻 **Frontend:** Jornada Dev Club (JavaScript, React e Node.js).
-- 🛡️ **Cibersegurança:** Curso de Hacker Ético, Pentest e preparação para certificações.
-- 🤖 **Inteligência Artificial:** Fundamentos de IA e sua aplicação no desenvolvimento de software.
-- ☕ **Backend:** Java e Python para criar bases sólidas.
+* ☁️ **Cloud Computing:** Cursando **AWS re/Start** (Escola da Nuvem).
+* 🐍 **Backend:** Desenvolvimento Python via **DIO**.
+* 🛡️ **Fundamentos:** Certificado em **Linux (FIAP)** e **Suporte Técnico (Dell/Lead)**.
+* ⚙️ **Hardware:** Montador e Reparador de Computadores (IFTO).
 
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
 
+### 🏗️ Infraestrutura, Suporte & Sistemas
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zimbra-C2185B?style=for-the-badge&logo=zimbra&logoColor=white" />
+</p>
+
+### 🌐 Desenvolvimento & Automação
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
+  <img src="https://img.shields.io/badge/Contribuições_Totais-108-20B2AA?style=for-the-badge&logo=github&logoColor=white" alt="Total Contribs" />
+  
+  <img src="https://img.shields.io/badge/Localização-Manaus, AM-0078D6?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Manaus" />
 
-**Front-end & Code** <br/>
-<img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <br/><br/>
 
-**Segurança, IA & Backend** <br/>
-<img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-<img align="center" alt="Tensorflow" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=souzarlucas&theme=tokyonight" alt="GitHub Streak" />
+</div>
 
-**Ferramentas & DevOps** <br/>
-<img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" alt="Apple" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-<img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-
+<div align="center">
+  <p><em>Nota: As estatísticas detalhadas de linguagens estão sendo processadas pelo sistema.</em></p>
 </div>
 
 ---
+
+<br/>
+
+<div align="center">
+  <sub>Organização operacional e código com foco em eficiência.</sub>
+</div>
+
+<div align="center">
+  <sub>Criado com ❤️ por Lucas Souza</sub>
+</div>
